@@ -1,5 +1,3 @@
-сдуфк
-
 # aqa-advanced
 
 <h1>Hillel educational project!!!!</h1>
